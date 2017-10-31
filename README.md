@@ -1,1 +1,1 @@
-# solutions for the programming excercise of andrew's ng course
+# solutions for the programming excercie andrew's ng course
